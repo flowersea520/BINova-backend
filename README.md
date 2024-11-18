@@ -6,8 +6,8 @@
 <h1 align="center">Nova智能数据分析平台</h1>
 <p align="center"><strong>智能BI数据分析平台<br><em>持续更新中~</em></strong></p>
 <div align="center">
-    <a href="https://github.com/IMZHEYA/zhebi-frontend"><img src="https://img.shields.io/badge/后端-项目地址-blueviolet.svg?style=plasticr"></a>
-    <a href="https://github.com/IMZHEYA/zhebi-backend"><img src="https://img.shields.io/badge/后端-项目地址-blueviolet.svg?style=plasticr"></a>
+    <a href="https://github.com/flowersea520/BINova-frontend"><img src="https://img.shields.io/badge/前端-项目地址-blueviolet.svg?style=plasticr"></a>
+    <a href="https://github.com/flowersea520/BINova-backend"><img src="https://img.shields.io/badge/后端-项目地址-blueviolet.svg?style=plasticr"></a>
 </div>
 
 
