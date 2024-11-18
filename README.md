@@ -1,6 +1,6 @@
 <p align="center">
     <a href="" target="_blank">
-      <img src="./docs/imgs/icon.png" width="280" />
+      <img src="./doc/images/icon.png" width="280" />
     </a>
 </p>
 <h1 align="center">Nova智能数据分析平台</h1>
